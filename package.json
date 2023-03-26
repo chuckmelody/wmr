@@ -1,0 +1,28 @@
+{
+  "name": "wmr",
+  "version": "1.0.0",
+  "description": "internet portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chuckmelody/wmr.git"
+  },
+  "keywords": [
+    "portal"
+  ],
+  "author": "chuckmelody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chuckmelody/wmr/issues"
+  },
+  "homepage": "https://github.com/chuckmelody/wmr#readme",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3",
+    "mysql2": "^3.2.0"
+  }
+}
